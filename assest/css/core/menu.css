@@ -26,8 +26,10 @@
 }
 
 .navbar-header img{
-    width: 100px;
     margin-top: -30px;
+}
+.navbar-header .logo {
+    width: 100px;
 }
 
 .is-sticky .navbar-header {

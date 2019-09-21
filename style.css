@@ -32,11 +32,11 @@ Version: 1.0
 }
 
 .slide-bg-two {
-    background: rgba(0, 0, 0, 0) url("assest/img/slider/slide-1.jpg") no-repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) url("assest/img/slider/slide_2.jpg") no-repeat scroll center center / cover;
 }
 
 .slide-bg-three {
-    background: rgba(0, 0, 0, 0) url("assest/img/slider/slide_2.jpg") no-repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) url("assest/img/slider/slide_3.jpg") no-repeat scroll center center / cover;
 }
 
 .welcome-slider-area .owl-controls {
@@ -55,10 +55,10 @@ Version: 1.0
 }
 
 .welcome-slider-area .owl-nav > div {
-    background: #d3ffea none repeat scroll 0 0;
+    background: #666 none repeat scroll 0 0;
     border-radius: 50%;
     bottom: 0;
-    color: #31dc89;
+    color: #FBBA15;
     font-size: 35px;
     height: 50px;
     margin: 10px 0;
@@ -71,7 +71,7 @@ Version: 1.0
 }
 
 .welcome-slider-area .owl-nav > div:hover {
-    background: #31dc89 none repeat scroll 0 0;
+    background: #FBBA15 none repeat scroll 0 0;
     color: #ffffff;
 }
 
@@ -90,9 +90,9 @@ Version: 1.0
 }
 
 .features-box-icon {
-    background: #d3ffea none repeat scroll 0 0;
+    background: #666 none repeat scroll 0 0;
     border-radius: 5px;
-    color: #31dc89;
+    color: #FBBA15;
     height: 70px;
     margin-bottom: 40px;
     padding-top: 15px;
@@ -125,9 +125,9 @@ Version: 1.0
 }
 
 a.enroll-button {
-    background: #d3ffea none repeat scroll 0 0;
+    background: #666 none repeat scroll 0 0;
     border-radius: 50px;
-    color: #0be27a;
+    color: #FBBA15;
     padding: 10px 15px;
     text-transform: capitalize;
 }
@@ -138,7 +138,7 @@ a.enroll-button:hover {
 }
 
 .course-price {
-    color: #0be27a;
+    color: #FBBA15;
     float: right;
     font-size: 22px;
     font-weight: 700;
@@ -162,7 +162,7 @@ a.enroll-button:hover {
 ---------------------------------*/
 
 .video-area .area-bg::before {
-    background: #3ee792 none repeat scroll 0 0;
+    background: #FBBA15 none repeat scroll 0 0;
     opacity: 0.75;
 }
 
@@ -184,7 +184,7 @@ a.enroll-button:hover {
 .video-area-popup {
     background: #ffffff none repeat scroll 0 0;
     border-radius: 50%;
-    color: #3ee792;
+    color: #FBBA15;
     cursor: pointer;
     display: inline-block;
     font-size: 30px;
@@ -198,7 +198,7 @@ a.enroll-button:hover {
 }
 
 .video-area-popup:hover {
-    background: #3ee792 none repeat scroll 0 0;
+    background: #FBBA15 none repeat scroll 0 0;
     -webkit-box-shadow: 0 0 10px 10px #ffffff;
     box-shadow: 0 0 10px 10px #ffffff;
     color: #ffffff;
@@ -215,7 +215,7 @@ a.enroll-button:hover {
 }
 
 .author-content::before {
-    color: #3ee792;
+    color: #FBBA15;
     content: "\f10e";
     font-family: fontawesome;
     font-size: 41px;
@@ -242,7 +242,7 @@ a.enroll-button:hover {
 }
 
 .testmonial-area .owl-nav > div {
-    background: #3ee792 none repeat scroll 0 0;
+    background: #FBBA15 none repeat scroll 0 0;
     border-radius: 50%;
     color: #ffffff;
     font-size: 30px;
@@ -304,8 +304,8 @@ a.enroll-button:hover {
 }
 
 .testmonial-area .owl-dots > div.active {
-    background: #3ee792 none repeat scroll 0 0;
-    border-color: #3ee792;
+    background: #FBBA15 none repeat scroll 0 0;
+    border-color: #FBBA15;
 }
 
 /*--------------------------------
@@ -388,12 +388,12 @@ a.enroll-button:hover {
 
 .contact-form input:focus,
 .contact-form textarea:focus {
-    -webkit-box-shadow: 0 0 0 1px #3ee792;
-    box-shadow: 0 0 0 1px #3ee792;
+    -webkit-box-shadow: 0 0 0 1px #FBBA15;
+    box-shadow: 0 0 0 1px #FBBA15;
 }
 
 .contact-form button {
-    background: #3ee792 none repeat scroll 0 0;
+    background: #FBBA15 none repeat scroll 0 0;
     border: 0 none;
     border-radius: 50px;
     color: #ffffff;
@@ -481,7 +481,7 @@ a.enroll-button:hover {
 }
 
 .subscriber-form button {
-    background: #d3ffea none repeat scroll 0 0;
+    background: #666 none repeat scroll 0 0;
     border: 0 none;
     border-radius: 0 50px 50px 0;
     color: #171932;
@@ -547,6 +547,6 @@ label.mt10.valid {
 }
 
 .scrolltotop:hover {
-    background: #3ee792;
+    background: #FBBA15;
     color: #ffffff;
 }
